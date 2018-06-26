@@ -108,4 +108,6 @@
             <input type="submit" value="Enviar" class="submit-button js-submit-ticket">
         </div>
     </form>
+    <br><br>
+    <center><a href='index.php' class="link-padrao">Voltar</a></center>
 </div>
